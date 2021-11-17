@@ -25,21 +25,21 @@ This app is based on using a starter code with a fully functioning Google Books 
 <br>
 
 ## Technologies
-<img align="left" width="26px" alt="CSS" src="client/public\assets\images\css.png">
-<img align="left" width="26px" alt="HTML" src="client/public\assets\images\html.png">
-<img align="left" width="26px" alt="Node" src="client/public\assets\images\node.png">
-<img align="left" width="26px" alt="JS" src="client/public\assets\images\JS.png">
-<img align="left" width="26px" alt="Github" src="client/public\assets\images\github.png">
-<img align="left" width="26px" alt="Jquery" src="client/public\assets\images\jquery.png">
-<img align="left" width="26px" alt="Express" src="./client/public\assets\images\express.png">
-<img align="left" width="26px" alt="Materialiaze" src="./client/public\assets\images\materialize.png">
-<img align="left" width="26px" alt="VSCode" src="./client/public\assets\images\vscode.png">
-<img align="left" width="26px" alt="REACT" src="./client/public\assets\images\react.png">
-<img align="left" width="26px" alt="REDUX" src="./client/public\assets\images\redux.png">
-<img align="left" width="26px" alt="MongoDB" src="./client/public\assets\images\mongo.png">
-<img align="left" width="26px" alt="NodeJS" src="./client/public\assets\images\node-js.png">
-<img align="left" width="26px" alt="BS" src="./client/public\assets\images\bootstrap.png">
-<img align="left" width="26px" alt="API" src="./client/public\assets\images\api.png">
+<img align="left" width="26px" alt="CSS" src="images\css.png">
+<img align="left" width="26px" alt="HTML" src="images\html.png">
+<img align="left" width="26px" alt="Node" src="images\node.png">
+<img align="left" width="26px" alt="JS" src="images\JS.png">
+<img align="left" width="26px" alt="Github" src="images\github.png">
+<img align="left" width="26px" alt="Jquery" src="images\jquery.png">
+<img align="left" width="26px" alt="Express" src="./images\express.png">
+<img align="left" width="26px" alt="Materialiaze" src="./images\materialize.png">
+<img align="left" width="26px" alt="VSCode" src="./images\vscode.png">
+<img align="left" width="26px" alt="REACT" src="./images\react.png">
+<img align="left" width="26px" alt="REDUX" src="./images\redux.png">
+<img align="left" width="26px" alt="MongoDB" src="./images\mongo.png">
+<img align="left" width="26px" alt="NodeJS" src="./images\node-js.png">
+<img align="left" width="26px" alt="BS" src="./images\bootstrap.png">
+<img align="left" width="26px" alt="API" src="./images\api.png">
 
 <br><br>
 
@@ -53,7 +53,7 @@ This is the link to the live site on [Heroku](https://fast-depths-80373.herokuap
 This is the link to my github Repo [GitHub](hhttps://github.com/lbladma/My-Book-Search-Engine)
 #
 
- [<img alt="LinkedIn" src="./client/public\assets\images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
+ [<img alt="LinkedIn" src="./images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
 
 
 
