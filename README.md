@@ -8,6 +8,7 @@
 - [Summary](#Summary)
 - [Technologies](#technologies)
 - [Links](#links)
+- [LinkedIn](#linkedIn)
 #
 #
 ## Summary 
@@ -50,9 +51,10 @@ This app is based on using a starter code with a fully functioning Google Books 
 ## Links 
 This is the link to the live site on [Heroku](https://fast-depths-80373.herokuapp.com/)
 
-This is the link to my github Repo [GitHub](hhttps://github.com/lbladma/My-Book-Search-Engine)
+This is the link to my github Repo [GitHub](https://github.com/lbladma/My-Book-Search-Engine)
 #
-
+## LinkdeIn
+ 
  [<img alt="LinkedIn" src="./images\linkedin.png">](https://www.linkedin.com/in/taoufika/)
 
 
